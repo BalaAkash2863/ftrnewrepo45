@@ -4,5 +4,4 @@ This is the final project for future ready talent
 
 
 
-home page:
-![image](https://user-images.githubusercontent.com/91054305/175760338-d840a993-422a-471c-96fc-843b57de5718.png)
+![123456](https://user-images.githubusercontent.com/91054305/175760437-33d555a8-f0c3-4cc0-b058-3a7a76e7528d.png)
